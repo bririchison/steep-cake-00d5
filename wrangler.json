@@ -13,7 +13,7 @@
   "upload_source_maps": true,
   "routes": [
     {
-      "pattern": "shop.example.com",
+      "pattern": "brieauty.us",
       "custom_domain": true
     }
   ]
